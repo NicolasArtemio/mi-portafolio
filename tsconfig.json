@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",        // Asegura que se use el JSX moderno de React 17+
+    "strict": true,            // Activa las comprobaciones estrictas de TypeScript
+    "esModuleInterop": true,   // Habilita la interoperabilidad de módulos ES
+    "skipLibCheck": true       // Esto puede evitar problemas con la verificación de tipos en archivos de definición de bibliotecas
+  },
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
