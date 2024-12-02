@@ -20,7 +20,7 @@ const ContactSection = () => {
             También puedes seguirme en mis redes sociales para estar al tanto de mis proyectos.
           </p>
           <div className="flex space-x-4 justify-center">
-            <a href="https://www.linkedin.com/in/nicol%C3%A1s-dume/" className="text-pink-500 hover:text-pink-700">
+            <a href="https://www.linkedin.com/in/nicolas-artemio-dume-68aaa1339/" className="text-pink-500 hover:text-pink-700">
               LinkedIn
             </a>
             <a href="https://github.com/nicod12" className="text-pink-500 hover:text-pink-700">
