@@ -9,7 +9,7 @@ const ContactSection = () => {
           <p className="text-gray-700 mb-4 text-center">
             Si tu empresa necesita un desarrollador motivado y orientado a resultados, no dudes en contactarme. Estoy listo para contribuir al crecimiento del equipo, aprender, y seguir perfeccionando mis habilidades en un entorno colaborativo. Puedes contactarme a través de los siguientes medios:
           </p>
-          <a href="mailto:dumenicolas45@gmail.com">
+          <a href="mailto:nicolasartemiodume@gmail.com">
             <button className="mt-4 w-full px-4 py-2 bg-pink-500 uppercase text-white rounded-lg hover:bg-pink-600 transition">
               Contactar
             </button>
